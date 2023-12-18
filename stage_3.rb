@@ -22,3 +22,5 @@ def delete_word(param)
   # Combo Alert! Delete the above method name by starting on the 'd' of delete_word and hit `dw`
   # Now that you know what a word is, you can combine that motion with actions like 'delete'!
 end
+
+# Amy edit: I have finished stage 3 but have decided to keep the CAPS LOCK as is and to use the escape key.

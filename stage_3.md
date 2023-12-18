@@ -24,3 +24,5 @@ And just like the stage_2 exercise, you can add a number before the movement to 
 This is where things start getting pretty spicy, but it's also _just the beginning_ of the speed you can reach.
 
 Check out [Stage Three Ruby](/stage_3.rb) for some practice and a new skill that leverages `web`.
+
+Amy edit: I have finished stage 3!

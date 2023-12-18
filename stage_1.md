@@ -28,3 +28,5 @@ Play the first _free_ level of [vim-adventures](https://www.vim-adventures.com) 
 You don't need to buy the game, just replay the first few levels until your `hjkl`s start feeling more comfortable.
 
 Move on to [Stage Two](/stage_2.md) when you're ready. Good luck!
+
+Amy edit: I have finished stage 1!

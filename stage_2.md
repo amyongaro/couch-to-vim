@@ -19,3 +19,5 @@ Learn how (and why) to do this on Mac in this [video](https://www.youtube.com/sh
 Go practice on [Stage Two Ruby](/stage_2.rb) and fill in the parameter with some new names and learn an amazing new skill, too.
 
 Then, move on to [Stage Three](/stage_3.md) when you're ready. Good luck!
+
+Amy edit: I have finished stage 2!

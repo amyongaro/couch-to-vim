@@ -14,12 +14,12 @@ def short(x)
   # How about now?
 end
 
-def delete_the_extra_x_with_2x(xx)
+def delete_the_extra_x_with_2x()
   # Vim uses numbers to repeat motion commands.
   # for example: to delete both xx's above, type `2x` in normal mode.
 end
 
-def oof(ardxvark)
+def oof(vark)
   # How would you delete the first four (ardx) letters of this parameter name?
   # Place your cursor on the 'a' and type 4x.
 end
@@ -29,9 +29,7 @@ def more_practice(x)
   # Try using `4l` below to go right four spaces.
   # How about `8j` to hop down 8 rows? `3k` to go up 3 rows?
 
-  x # <- go from this x
-             
-
+  x # <- go from this x            
 
                                                                       
   x # <- to this one with two keys (a number, and a direction)
@@ -42,3 +40,5 @@ def more_practice(x)
   x  x
   x x
 end
+
+# Amy edit: I have finished stage 2!
